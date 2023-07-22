@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "title": "Producto prueba 2",
+    "description": "Este es un producto prueba 2",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc124",
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "title": "Producto prueba 3",
+    "description": "Este es un producto prueba 3",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc125",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "title": "Producto prueba 4",
+    "description": "Este es un producto prueba 4",
+    "price": 800,
+    "thumbnail": "Sin imagen",
+    "code": "ksk458",
+    "stock": 27
+  },
+  {
+    "id": 5,
+    "title": "Producto prueba 5",
+    "description": "Este es un producto prueba 5",
+    "price": 1200,
+    "thumbnail": "Sin imagen",
+    "code": "ksi584",
+    "stock": 38
+  },
+  {
+    "id": 6,
+    "title": "Producto prueba 6",
+    "description": "Este es un producto prueba 6",
+    "price": 485,
+    "thumbnail": "Sin imagen",
+    "code": "587cde",
+    "stock": 78
+  },
+  {
+    "id": 7,
+    "title": "Producto prueba 7",
+    "description": "Este es un producto prueba 7",
+    "price": 550,
+    "thumbnail": "Sin imagen",
+    "code": "kdu478",
+    "stock": 47
+  },
+  {
+    "id": 8,
+    "title": "Producto prueba 8",
+    "description": "Este es un producto prueba 8",
+    "price": 790,
+    "thumbnail": "Sin imagen",
+    "code": "drw834",
+    "stock": 15
+  },
+  {
+    "id": 9,
+    "title": "Producto prueba 9",
+    "description": "Este es un producto prueba 9",
+    "price": 570,
+    "thumbnail": "Sin imagen",
+    "code": "derl487",
+    "stock": 17
+  },
+  {
+    "id": 10,
+    "title": "Producto prueba 10",
+    "description": "Este es un producto prueba 10",
+    "price": 780,
+    "thumbnail": "Sin imagen",
+    "code": "wwsr78",
+    "stock": 41
+  }
+]
